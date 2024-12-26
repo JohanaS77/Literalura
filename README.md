@@ -55,7 +55,7 @@ Opciones para elegir
 ![Johana](https://github.com/JohanaS77/Literalura/blob/main/Demo%201.png)
 
 Opción elegida, resultado obtenido
-![Johana](
+![Johana](https://github.com/JohanaS77/Literalura/blob/main/Demo%202.png)
 
  
 
