@@ -51,10 +51,10 @@ Entre sus principales características se encuentra las opciones que tiene el us
 
 ## Demostración de la aplicación
 
-Opciones para elegir
+##Opciones para elegir
 ![Johana](https://github.com/JohanaS77/Literalura/blob/main/Demo%201.png)
 
-Opción elegida, resultado obtenido
+##Opción elegida, resultado obtenido
 ![Johana](https://github.com/JohanaS77/Literalura/blob/main/Demo%202.png)
 
  
